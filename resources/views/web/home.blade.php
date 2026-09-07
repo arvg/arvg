@@ -269,53 +269,98 @@
 
             <!-- Experiencia 1 -->
             <div class="relative pl-6 md:pl-10 group">
-                <div
-                    class="absolute -left-[9px] top-1.5 w-4 h-4 rounded-full bg-slate-950 border-2 border-indigo-500 group-hover:bg-indigo-500 group-hover:scale-125 transition-all">
-                </div>
-                <div class="md:absolute md:-left-36 md:top-1 md:w-28 text-left md:text-right text-xs font-mono font-semibold text-indigo-400 mb-2 md:mb-0"> 2020 — Pres.
-                </div>
-                <div
-                    class="bg-slate-900 border border-slate-800/90 rounded-2xl p-6 hover:border-slate-700 transition-all shadow-lg">
-                    <div class="flex flex-wrap items-center justify-between gap-2 mb-2">
-                        <h3 class="text-xl font-bold text-white">Soluciones TEC Péru</h3>
-                        <span
-                            class="text-xs bg-slate-800 text-slate-300 px-3 py-1 rounded-full border border-slate-700">Péru / Remoto</span>
-                    </div>
-                    <h4 class="text-sm font-semibold text-indigo-300 mb-3">Analista de sistemas</h4>
-                    <p class="text-slate-300 text-sm leading-relaxed mb-4">Programador full-stack encargado de desarrollar y mantener aplicaciones web utilizando tecnologías modernas en los diferentes ERP de la empresa.</p>
+							<div class="absolute -left-[9px] top-1.5 w-4 h-4 rounded-full bg-slate-950 border-2 border-indigo-500 group-hover:bg-indigo-500 group-hover:scale-125 transition-all">
+							</div>
+							<div class="md:absolute md:-left-36 md:top-1 md:w-28 text-left md:text-right text-xs font-mono font-semibold text-indigo-400 mb-2 md:mb-0"> 2020 — Pres.
+							</div>
+							<div class="bg-slate-900 border border-slate-800/90 rounded-2xl p-6 hover:border-slate-700 transition-all shadow-lg">
+									<div class="flex flex-wrap items-center justify-between gap-2 mb-2">
+											<h3 class="text-xl font-bold text-white">Soluciones TEC Péru</h3>
+											<span
+													class="text-xs bg-slate-800 text-slate-300 px-3 py-1 rounded-full border border-slate-700">Péru / Remoto</span>
+									</div>
+									<h4 class="text-sm font-semibold text-indigo-300 mb-3">Analista de sistemas</h4>
+									<p class="text-slate-300 text-sm leading-relaxed mb-4">Programador full-stack encargado de desarrollar y mantener aplicaciones web utilizando tecnologías modernas en los diferentes ERP de la empresa.</p>
 
-                    <div class="hidden space-y-2 mb-5">
-                        <p class="text-xs font-semibold uppercase text-slate-400 tracking-wider">Logros destacados:</p>
-                        <ul class="space-y-1.5">
-                            <li class="text-xs text-slate-300 flex items-start gap-2">
-                                <svg class="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" fill="none" stroke="currentColor"
-                                    stroke-width="2" viewBox="0 0 24 24">
-                                    <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
-                                    <polyline points="22 4 12 14.01 9 11.01" />
-                                </svg>
-                                <span>Migración de arquitectura monolítica a micro-frontends basados en Next.js y
-                                    TypeScript.</span>
-                            </li>
-                            <li class="text-xs text-slate-300 flex items-start gap-2">
-                                <svg class="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" fill="none" stroke="currentColor"
-                                    stroke-width="2" viewBox="0 0 24 24">
-                                    <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
-                                    <polyline points="22 4 12 14.01 9 11.01" />
-                                </svg>
-                                <span>Creación del Design System corporativo utilizado por más de 40
-                                    desarrolladores.</span>
-                            </li>
-                        </ul>
-                    </div>
+									<div class="hidden space-y-2 mb-5">
+											<p class="text-xs font-semibold uppercase text-slate-400 tracking-wider">Logros destacados:</p>
+											<ul class="space-y-1.5">
+													<li class="text-xs text-slate-300 flex items-start gap-2">
+															<svg class="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" fill="none" stroke="currentColor"
+																	stroke-width="2" viewBox="0 0 24 24">
+																	<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+																	<polyline points="22 4 12 14.01 9 11.01" />
+															</svg>
+															<span>Migración de arquitectura monolítica a micro-frontends basados en Next.js y
+																	TypeScript.</span>
+													</li>
+													<li class="text-xs text-slate-300 flex items-start gap-2">
+															<svg class="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" fill="none" stroke="currentColor"
+																	stroke-width="2" viewBox="0 0 24 24">
+																	<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+																	<polyline points="22 4 12 14.01 9 11.01" />
+															</svg>
+															<span>Creación del Design System corporativo utilizado por más de 40
+																	desarrolladores.</span>
+													</li>
+											</ul>
+									</div>
 
-                    <div class="flex flex-wrap gap-2 pt-2 border-t border-slate-800/80">
-											<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">PHP</span>
-											<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Jquery</span>
-											<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Boostrap</span>
-											<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Codeigniter</span>
-											<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Laravel</span>
-                    </div>
-                </div>
+									<div class="flex flex-wrap gap-2 pt-2 border-t border-slate-800/80">
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">PHP</span>
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Jquery</span>
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Boostrap</span>
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Codeigniter</span>
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Laravel</span>
+									</div>
+							</div>
+            </div>
+
+						<!-- Experiencia 2 -->
+						<div class="relative pl-6 md:pl-10 group">
+							<div class="absolute -left-[9px] top-1.5 w-4 h-4 rounded-full bg-slate-950 border-2 border-indigo-500 group-hover:bg-indigo-500 group-hover:scale-125 transition-all">
+							</div>
+							<div class="md:absolute md:-left-36 md:top-1 md:w-28 text-left md:text-right text-xs font-mono font-semibold text-indigo-400 mb-2 md:mb-0"> 2019 — 2020.
+							</div>
+							<div class="bg-slate-900 border border-slate-800/90 rounded-2xl p-6 hover:border-slate-700 transition-all shadow-lg">
+									<div class="flex flex-wrap items-center justify-between gap-2 mb-2">
+											<h3 class="text-xl font-bold text-white">Ferreteria Kong</h3>
+											<span class="text-xs bg-slate-800 text-slate-300 px-3 py-1 rounded-full border border-slate-700">Péru / Presencial</span>
+									</div>
+									<h4 class="text-sm font-semibold text-indigo-300 mb-3">Analista de sistemas</h4>
+									<p class="text-slate-300 text-sm leading-relaxed mb-4">Programador full-stack encargado de desarrollar y mantener un sistema ERP que tiene la empresa.</p>
+
+									<div class="hidden space-y-2 mb-5">
+											<p class="text-xs font-semibold uppercase text-slate-400 tracking-wider">Logros destacados:</p>
+											<ul class="space-y-1.5">
+													<li class="text-xs text-slate-300 flex items-start gap-2">
+															<svg class="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" fill="none" stroke="currentColor"
+																	stroke-width="2" viewBox="0 0 24 24">
+																	<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+																	<polyline points="22 4 12 14.01 9 11.01" />
+															</svg>
+															<span>Migración de arquitectura monolítica a micro-frontends basados en Next.js y
+																	TypeScript.</span>
+													</li>
+													<li class="text-xs text-slate-300 flex items-start gap-2">
+															<svg class="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" fill="none" stroke="currentColor"
+																	stroke-width="2" viewBox="0 0 24 24">
+																	<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+																	<polyline points="22 4 12 14.01 9 11.01" />
+															</svg>
+															<span>Creación del Design System corporativo utilizado por más de 40
+																	desarrolladores.</span>
+													</li>
+											</ul>
+									</div>
+
+									<div class="flex flex-wrap gap-2 pt-2 border-t border-slate-800/80">
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">PHP</span>
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Jquery</span>
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Boostrap</span>
+										<span class="text-[11px] font-mono bg-slate-950 text-indigo-300 px-2.5 py-1 rounded-md border border-slate-800">Codeigniter</span>
+									</div>
+							</div>
             </div>
 
         </div>
